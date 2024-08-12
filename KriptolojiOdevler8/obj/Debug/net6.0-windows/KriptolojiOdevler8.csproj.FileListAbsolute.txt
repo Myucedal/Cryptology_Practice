@@ -1,0 +1,67 @@
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.exe
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.deps.json
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.runtimeconfig.json
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.dll
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.pdb
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Form1.resources
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Vigenere.resources
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.csproj.GenerateResource.cache
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.AssemblyInfoInputs.cache
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.AssemblyInfo.cs
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.dll
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\refint\KriptolojiOdevler8.dll
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.pdb
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.genruntimeconfig.cache
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\ref\KriptolojiOdevler8.dll
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Yerdegistirme.resources
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Permutasyon.resources
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.RotaAlgoritmasi.resources
+C:\Users\irem\source\repos\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Zigzag.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.exe
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.deps.json
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.runtimeconfig.json
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.pdb
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Form1.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Permutasyon.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.RotaAlgoritmasi.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Vigenere.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Yerdegistirme.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Zigzag.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.csproj.GenerateResource.cache
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.AssemblyInfoInputs.cache
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.AssemblyInfo.cs
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\refint\KriptolojiOdevler8.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.pdb
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.genruntimeconfig.cache
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\ref\KriptolojiOdevler8.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.DortKareMatrisForm.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Properties.Resources.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.exe
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.deps.json
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.runtimeconfig.json
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.dll
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\bin\Debug\net6.0-windows\KriptolojiOdevler8.pdb
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.DortKareMatrisForm.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Form1.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Permutasyon.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Properties.Resources.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.RotaAlgoritmasi.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Vigenere.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Yerdegistirme.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.Zigzag.resources
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.csproj.GenerateResource.cache
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.AssemblyInfoInputs.cache
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.AssemblyInfo.cs
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.dll
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\refint\KriptolojiOdevler8.dll
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.pdb
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\KriptolojiOdevler8.genruntimeconfig.cache
+C:\Users\Adem\Desktop\projelerim\KriptolojiOdevler8\KriptolojiOdevler8\obj\Debug\net6.0-windows\ref\KriptolojiOdevler8.dll
